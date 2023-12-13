@@ -1,0 +1,15 @@
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\bin\Debug\net7.0\Projeto-dio-celular.exe
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\bin\Debug\net7.0\Projeto-dio-celular.deps.json
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\bin\Debug\net7.0\Projeto-dio-celular.runtimeconfig.json
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\bin\Debug\net7.0\Projeto-dio-celular.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\bin\Debug\net7.0\Projeto-dio-celular.pdb
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.csproj.AssemblyReference.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.AssemblyInfoInputs.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.AssemblyInfo.cs
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\refint\Projeto-dio-celular.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.pdb
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\Projeto-dio-celular.genruntimeconfig.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Dio\Projeto-dio-celular\obj\Debug\net7.0\ref\Projeto-dio-celular.dll
